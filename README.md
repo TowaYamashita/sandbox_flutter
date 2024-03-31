@@ -18,7 +18,7 @@ $ xcodebuild -version
 Xcode 15.3
 Build version 15E204a
 
-❯ cat /Android Studio.app/Contents/Resources/product-info.json | grep \"version\":
+❯ cat /Applications/Android Studio.app/Contents/Resources/product-info.json | grep \"version\":
 "version": "AI-232.10227.8.2321.11479570",
 ```
 
